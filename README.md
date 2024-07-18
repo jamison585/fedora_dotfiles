@@ -4,6 +4,7 @@ My dotfiles for fedora linux. Relevant software installed on this system include
 - Herbstluftwm
 - Polybar
 - Rofi
+- nnn
 - Alacritty
 - Tmux
 - AppImageLauncher
